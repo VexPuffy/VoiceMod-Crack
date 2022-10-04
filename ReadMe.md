@@ -11,7 +11,7 @@ Do not copy as a creator
 --------------------------------------------------------
 2) Wait till VoiceMod will download
 --------------------------------------------------------
-3)After it downloaded turn off your wifi and open it
+3) After it downloaded turn off your wifi and open it
 --------------------------------------------------------
 4) Wait it open, turn on your wifi and enjoy!
 --------------------------------------------------------
